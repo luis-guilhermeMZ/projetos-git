@@ -1,6 +1,6 @@
 # Projetos Git
 
-Mini projetos que desenvolvo enquanto estudo programação (CS50).
+Mini projetos que desenvolvo enquanto estudo programação(Curso em vídeo-Gustavo Guanabara, Rocketseat e CS50).
 
 ## Estrutura
 
