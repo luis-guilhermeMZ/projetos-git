@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+node_modules/
+*.o
+*.out
+bin/
+.vscode/
+# Executáveis compilados em C (sem extensão)
+C/hello/hello
